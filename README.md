@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Jaba
 
-<!--
-**jabaadamia/jabaadamia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student in Georgia 🇬🇪 with an interest for **full-stack development**. 
 
-Here are some ideas to get you started:
+---
+### 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,ocaml" alt="Languages" />
+</p>
+
+#### **Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=django,react" alt="Frameworks and Libraries" />
+</p>
+
+#### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,postgresql" alt="Tools and Platforms" />
+</p>
+
+
+#### Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,typescript" alt="Spring Boot" />
+</p>
+
+---
+
+### Contact
+
+- Email: jabaadamia1@gmail.com  
+- LinkedIn: [linkedin](https://www.linkedin.com/in/jaba-adamia-b1021629a/)  
