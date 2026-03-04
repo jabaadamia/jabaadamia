@@ -1,26 +1,25 @@
 # Hi, I'm Jaba
 
-I'm a computer science student in Georgia 🇬🇪 with an interest for **full-stack development**. 
+I'm a 3rd year computer science student in Georgia with an interest in full-stack development. 
 
 ---
-### 🛠️ Technologies
+### Tech Stack
 
+### Languages
+- Java, Python, JavaScript, TypeScript, HTML, CSS, OCaml
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,ocaml" alt="Languages" style="max-width: 100%;"  width="240"/>
+### Frameworks & Libraries
+- Spring Boot, Django, Django REST Framework, React, Next.js, NumPy, Pandas
 
-**Frameworks & Libraries**  
-<img src="https://skillicons.dev/icons?i=django,react" alt="Frameworks and Libraries"  width="80"/>
+### Databases
+- PostgreSQL
 
-**Tools & Platforms**  
-<img src="https://skillicons.dev/icons?i=git,docker,postgresql" alt="Tools and Platforms"  width="120"/>
-
-**Currently Learning**  
-<img src="https://skillicons.dev/icons?i=spring,typescript" alt="Currently Learning"  width="80"/>
-
+### Dev Tools
+- Git, Docker
 
 ---
 
 ### Contact
 
 - Email: jabaadamia1@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/jaba-adamia/
